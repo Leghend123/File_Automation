@@ -1,2 +1,2 @@
 # File_Automation
-file automation grouping file into besed on thier extensions 
+file automation grouping files into folders based on thier extensions 
