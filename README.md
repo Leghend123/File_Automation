@@ -1,2 +1,3 @@
 # File_Automation
-file automation grouping files into folders based on thier extensions 
+this script organizes files in a directory based on their file extensions,
+creating separate subdirectories for each type of file extension.
